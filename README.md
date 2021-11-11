@@ -10,7 +10,7 @@
 Well if you don't mind wacky and slightly opinionated writing, here are some instructions + ready-made settings for a more pleasant / productive terminal experience. This is the workflow I built over the past years of doing scientific computing and may save you some time and googling. I do hope it will :).
 
 
-![Pimped terminal!](https://raw.github.com/{anicusan/PimpMyTerminal/master/images/PimpedTerminal.png?raw=true)
+![Pimped terminal!](https://raw.github.com/anicusan/PimpMyTerminal/master/images/PimpedTerminal.png?raw=true)
 Multiplexing! Ligatures! Coloured output! Buzzwords! Elevator pitch!
 
 
@@ -37,7 +37,7 @@ $PimpMyTerminal> cp .alacritty.yml ~
 
 In [FiraCode's](https://github.com/tonsky/FiraCode) words, your eyes spend a non-zero amount of energy to scan, parse and join multiple characters like "!=" or "=>" into a single logical one, i.e. ≠ and ⇒. We can use a font with _ligatures_ for rendering regular ASCII symbols as their logical representations; I really, really like FiraCode:
 
-![FiraCode ligatures](https://raw.github.com/{anicusan/PimpMyTerminal/master/images/FiraCodeExample.png?raw=true)
+![FiraCode ligatures](https://raw.github.com/anicusan/PimpMyTerminal/master/images/FiraCodeExample.png?raw=true)
 Example of FiraCode ligatures, taken from its [repository](https://github.com/tonsky/FiraCode).
 
 Install it on your system using the instructions given in its repository - it depends on your system (portability, eh?).
